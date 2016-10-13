@@ -51,3 +51,5 @@ Yavor Yanchev - [https://github.com/YavorYanchev/sda_notes](https://github.com/Y
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
 
 Yoana Stoyanova [https://github.com/YoanaStoyanova/SDA](https://github.com/YoanaStoyanova/SDA)
+
+Nevena Gadzheva - https://github.com/xheartbeat/SDA
